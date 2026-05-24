@@ -4,7 +4,7 @@
 🎯 Contexto e Objetivos
 O assunto de interesse escolhido para este caderno temático é a Administração e Arquitetura do Salesforce, com foco em preparar profissionais para entrevistas de nível especialista. O objetivo principal deste material é transcender o conhecimento operacional (o "como apertar botões") e aprofundar no entendimento estratégico e arquitetural da plataforma (o "porquê" das coisas). Este estudo visa consolidar conceitos que vão desde a gestão de usuários e segurança até integrações complexas, modelagem de dados e governança de deployments
 .
-📚 Curadoria de Fontes
+# 📚 Curadoria de Fontes
 As fontes utilizadas para compor este caderno foram extraídas da série de aulas abertas "Administrador Salesforce: saindo do Zero ao Fundamental" do canal DVLPRBR, focadas em formar administradores com visão estratégica:
 Vídeo 03 - Segurança e Acesso: Focado em hierarquia, perfis, conjuntos de permissões e controle em nível de registro e campo
 .
@@ -16,14 +16,14 @@ Vídeo 06 - Automação de Processos: Centralizado na evolução para o Flow Bui
 .
 Vídeo 10 - Deployment e Governança: Detalha as diferenças entre Change Sets e a transição moderna para o DevOps Center
 .
-🧠 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+# 🧠 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 Objetivo da Interação: Extrair um resumo focado em entrevistas para nível de especialista, exigindo maturidade técnica em vez de apenas passos de configuração básica.
 Prompt Principal Testado: "Gostaria que você se comporta-se como um professor de selesforce com diversas certificações e me explica-se resumidamente dos este conteúdo de maneira que eu me prepare para entrevista para vaga de especialistas."
 Resultados e Dificuldades ("Cicatrizes"): A principal dificuldade na elaboração inicial de prompts sobre Salesforce é que a IA tende a responder com guias de clique (ex: "Vá em Setup > Users"). Para contornar isso, o prompt precisou definir a persona ("professor com diversas certificações") e o objetivo final ("entrevista para vaga de especialista").
 Raciocínio por trás do Resultado: Ao ajustar o prompt para esse foco estratégico, a IA organizou a resposta em pilares arquiteturais (Segurança, Modelagem, Qualidade de Dados, Automação, Integração, Analytics e Deploy), que são exatamente os temas cobrados em avaliações de senioridade no mercado.
 
 --------------------------------------------------------------------------------
-📖 Miniguia de Estudo (Entrega Final)
+# 📖 Miniguia de Estudo (Entrega Final)
 1. Resumos Estruturados do Assunto (Os 7 Pilares do Especialista)
 Pilar 1: Segurança e Visibilidade (O Modelo de Camadas): A segurança não é configurada em um único lugar, é um modelo de camadas
 .
